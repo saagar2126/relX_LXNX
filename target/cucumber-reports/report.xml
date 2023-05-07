@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="66.055">
+    <testcase classname="Navigate to lexisNexis UK WebSite and check for options availability" name="validate the availability of Risk Decision Making Features" time="65.84">
+        <system-out><![CDATA[Then check and click on FinancialServices option............................passed
+And wait for some time and navigate back to the home page to click on Insurance.passed
+Then check and click on Insurance option....................................passed
+And wait for some time and navigate back to the home page to click on LifeandPensions.passed
+Then check and click on LifeandPensions option..............................passed
+And wait for some time and navigate back to the home page to click on CorporationsandNonProfits.passed
+Then check and click on LifeandPensions CorporationsandNonProfits...........passed
+And scrollDown to click FinancialServices in chooseIndustryTab..............passed
+Then click on FinancialCrimeCompliance......................................passed
+And navigate to chooseindustry and click on FraudAndIdentityManagement......passed
+Then navigate to chooseindustry and click on CustomerDataManagement.........passed
+And navigate to chooseindustry and click on CreditRiskAssesment.............passed
+Then navigate to chooseindustry and click on CollectionsAndRecovery.........passed
+And navigate to chooseindustry and click on TracingAndInvestigations........passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,353 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-05-07T08:57:37.184Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9820869900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.beforeScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "validate the availability of Risk Decision Making Features",
+        "description": "when HomePage is displayed ",
+        "id": "navigate-to-lexisnexis-uk-website-and-check-for-options-availability;validate-the-availability-of-risk-decision-making-features",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21259789500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "check and click on FinancialServices option",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.check_and_click_on_financial_services_option()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 2991100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 861545600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "wait for some time and navigate back to the home page to click on Insurance",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.wait_for_some_time_and_navigate_back_to_the_home_page_to_click_on_insurance()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1008100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3372199100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "check and click on Insurance option",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.check_and_click_on_insurance_option()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 97788200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "wait for some time and navigate back to the home page to click on LifeandPensions",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.wait_for_some_time_and_navigate_back_to_the_home_page_to_click_on_lifeand_pensions()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 999000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2648081500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "check and click on LifeandPensions option",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.check_and_click_on_lifeand_pensions_option()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 822946000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "wait for some time and navigate back to the home page to click on CorporationsandNonProfits",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.wait_for_some_time_and_navigate_back_to_the_home_page_to_click_on_corporationsand_non_profits()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 995700,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5472322400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "check and click on LifeandPensions CorporationsandNonProfits",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.check_and_click_on_lifeand_pensions_corporationsand_non_profits()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 998500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 941057900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "scrollDown to click FinancialServices in chooseIndustryTab",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.scroll_down_to_click_financial_services_in_choose_industry_tab()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8410907400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on FinancialCrimeCompliance",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.click_on_financial_crime_compliance()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3704991600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "navigate to chooseindustry and click on FraudAndIdentityManagement",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.navigate_to_chooseindustry_and_click_on_fraud_and_identity_management()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 998500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3830688400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "navigate to chooseindustry and click on CustomerDataManagement",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.navigate_to_chooseindustry_and_click_on_customer_data_management()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 983400,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2295858400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "navigate to chooseindustry and click on CreditRiskAssesment",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.navigate_to_chooseindustry_and_click_on_credit_risk_assesment()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 998100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1151188400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "navigate to chooseindustry and click on CollectionsAndRecovery",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.navigate_to_chooseindustry_and_click_on_collections_and_recovery()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1977800,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1050590100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "navigate to chooseindustry and click on TracingAndInvestigations",
+            "match": {
+              "location": "com.relx.lxnx.stepdefenitions.ValidateStepDefenitions.navigate_to_chooseindustry_and_click_on_tracing_and_investigations()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 995800,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.relx.lxnx.stepdefenitions.CommonStepDefenition.attachScreenShot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Navigate to lexisNexis UK WebSite and check for options availability",
+    "description": "",
+    "id": "navigate-to-lexisnexis-uk-website-and-check-for-options-availability",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/validate.feature",
+    "tags": []
+  }
+]
